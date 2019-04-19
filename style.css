@@ -90,7 +90,7 @@ img {
 }
 
 #home {
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(./images/main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -219,7 +219,7 @@ aside p {
 
 
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(./images/menu-bg.jpg);
     min-height: 100vh;
 }
 
@@ -253,7 +253,7 @@ aside p {
 
 
 #contact {
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(./images/contact-bg.jpg);
     min-height: 100vh;
     color: #fff;
 }
